@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 🤔 I’m looking for help with **DevOps**
+- 🤔 I’m looking for help with **Linux**
 
 - 📫 How to reach me **sid162002@gmail.com**
 
