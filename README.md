@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my web project**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **JS** Frameworks
 
 - 🤔 I’m looking for help with **Linux**
 
